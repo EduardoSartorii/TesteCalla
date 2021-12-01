@@ -1,1 +1,1 @@
-﻿print("Teste")
+﻿input("teste")
